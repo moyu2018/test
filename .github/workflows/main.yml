@@ -3,8 +3,8 @@ name: build
 on:
   #push:
   #  branches:
-      - 'xxf098/develop'
-      - 'xxf098/master'
+ #   - 'xxf098/develop'
+  #    - 'xxf098/master'
   watch:
     types: started
 
