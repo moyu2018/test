@@ -5,7 +5,7 @@ on:
     branches:
       - 'xxf098/develop'
       - 'xxf098/master'
-  #watch:
+#watch:
   #  types: started
 
 jobs:
