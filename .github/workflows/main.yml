@@ -1,12 +1,12 @@
 name: build
 
 on:
-  push:
-    branches:
+  #push:
+  #  branches:
       - 'xxf098/develop'
       - 'xxf098/master'
-#watch:
-  #  types: started
+  watch:
+    types: started
 
 jobs:
   build:
